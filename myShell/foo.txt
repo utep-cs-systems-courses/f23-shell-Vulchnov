@@ -1,0 +1,6 @@
+Child:  ...trying to exec /home/vulchnov/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/bin/remote-cli/wc
+Child:  ...trying to exec /usr/local/sbin/wc
+Child:  ...trying to exec /usr/local/bin/wc
+Child:  ...trying to exec /usr/sbin/wc
+Child:  ...trying to exec /usr/bin/wc
+  46  161 1667 myShell.py
